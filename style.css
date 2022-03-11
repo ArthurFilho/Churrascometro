@@ -1,0 +1,43 @@
+body{
+    color: black;
+    background-color: orange;
+
+}
+.container{
+    font-family: 'Righteous', cursive;
+    font-family: 'Roboto Mono', monospace;
+    max-width: 300px;
+    margin: auto;
+ background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    box-shadow: 10px 10px 10px 10px  rgba(0, 0, 0, 0.45);
+}
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+h1{
+    margin-top: 0;
+}
+.descricao{
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+#resultado{
+    color: black;
+}
+.btn{
+    background-color: orange;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
